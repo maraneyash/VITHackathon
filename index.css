@@ -1,0 +1,23 @@
+.lab
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mrow
+{
+    width: 0vw;
+}
+
+.tdata
+{
+    height: 50px;
+}
+
+.imgtab
+{
+    margin-left: 20% ;
+    width: 60vw;
+    height: 450px;
+}
